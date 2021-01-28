@@ -7,13 +7,13 @@ Sometimes it is convenient to be able to listen to local files within Spotify. I
 Note: There is almost always a way to download music from different streaming services on the internet, but I will specifically show you how to download songs from youtube and soundcloud. Find a song that you like from youtube or soundcloud.
 
 # Downloading the music
-For youtube, there are many services, but [this]https://ytmp3.cc/en13/ should be fine. For soundcloud, I've used [this site]https://sctomp3.net/ in the past. You should stick to just using the website, as there is no real benefit to downloading an application for converting to these .mp3 files.
+For youtube, there are many services, but [this](https://ytmp3.cc/en13/) should be fine. For soundcloud, I've used [this site](https://sctomp3.net/) in the past. You should stick to just using the website, as there is no real benefit to downloading an application for converting to these .mp3 files.
 
 
 # Uploading local files to Spotify
 This part must be done using the desktop version of spotify, but I will show you how to get these local files synced to your phone in the next section. To let Spotify see local files, go to settings, and in the Local Files section, enable Show Local Files. Then, click the button Add A Source below, and select the folder that you downloaded your music to.
 
-[!Local Files Source]https://www.groovypost.com/wp-content/uploads/2019/05/Spotify-Settings-Local-Files.png
+![Local Files Source](https://www.groovypost.com/wp-content/uploads/2019/05/Spotify-Settings-Local-Files.png)
 
 # Adding local files to playlists
 Once Spotify detects your local files, they will be available within the desktop application on the left sidebar in the Local Files part of Your Library. You can now listen to them and add them to different playlists.
