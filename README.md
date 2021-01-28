@@ -3,8 +3,10 @@
 # Introduction
 Sometimes it is convenient to be able to listen to local files within Spotify. In these instructions, I will show you how to get .mp3 files from the internet (soundcloud, youtube, etc.), and upload them to your Spotify account for easy listening on your phone, computer, or potato.
 
-# Find a song that you like
-Note: There is almost always a way to download music from different streaming services on the internet, but I will specifically show you how to download songs from youtube and soundcloud. Find a song that you like from youtube or soundcloud.
+# Finding songs
+If you don't already have a lot of music downloaded, you can find some songs/albums that you like on the internet very easily. Find some music that you like and copy the url.
+
+Note: There is almost always a way to download music from different streaming services on the internet, but I will specifically show you how to download songs from youtube and soundcloud.
 
 # Downloading the music
 For youtube, there are many services, but [this](https://ytmp3.cc/en13/) should be fine. For soundcloud, I've used [this site](https://sctomp3.net/) in the past. You should stick to just using the website, as there is no real benefit to downloading an application for converting to these .mp3 files.
@@ -23,6 +25,6 @@ Spotify has a kind of weird way of doing this, but here's what they recommend:
 1. First, on your computer, add your local files to a playlist.
 2. On your phone, go to settings in the Spotify app and turn Local audio files on.
 3. Connect your computer to the same wifi as your phone.
-4. On your phone, download the playlist that you added the local files to
+4. On your phone, download the playlist that you added the local files to.
 
 After doing this, your files should sync and you should be able to listen to your music on your phone.
